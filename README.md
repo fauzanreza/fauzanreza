@@ -25,7 +25,9 @@ Here are some ideas to get you started:
         </td>
     </tr>
     <tr>
+        <td>
             <img align='left' src = "https://github-readme-streak-stats.herokuapp.com/?user=FlazeFy&theme=dark">
+        </td>
     </tr>
 </table>
 ## Tools and Languages
