@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+    <tr>
+        <td>
+          <img align='right' src = "https://github-readme-stats.vercel.app/api?username=fauzanreza&show_icons=true&theme=tokyonight&count_private=true&hide_border=true">
+        </td>
+         <td>
+            <img align='left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanreza&&layout=compact&langs_count=6">
+        </td>
+    </tr>
+    <tr>
+            <img align='left' src = "https://github-readme-streak-stats.herokuapp.com/?user=FlazeFy&theme=dark">
+    </tr>
+</table>
+## Tools and Languages
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
+<img align="left" alt="Bootstrap" width="26px" 
+src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
+<img align="left" alt="Bash" width="30px" 
+src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />
+<img align="left" alt="Git" width="26px" 
+src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
+<img align="left" alt="Visual Studio Code" width="26px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+
+<br />
