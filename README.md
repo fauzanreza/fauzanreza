@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzanreza&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="fauzanreza's github stats" /></a>
-<br>
-<br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanreza&layout=compact&theme=buefy&hide_border=true" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fauzanreza&theme=dark&hide_border=true"></a>
-<br/>
-<br>
+
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanreza&theme=nord&count_private=true" /></a>
+-->
 
 <br/>
 
